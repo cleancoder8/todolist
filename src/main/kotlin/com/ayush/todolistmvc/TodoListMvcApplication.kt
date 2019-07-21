@@ -4,8 +4,8 @@ import org.springframework.boot.autoconfigure.SpringBootApplication
 import org.springframework.boot.runApplication
 
 @SpringBootApplication
-class TodolistMvcApplication
+class TodoListMvcApplication
 
 fun main(args: Array<String>) {
-	runApplication<TodolistMvcApplication>(*args)
+	runApplication<TodoListMvcApplication>(*args)
 }
